@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me shakyaimanjith32@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakyapeiris)](https://github.com/shakyapeiris/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakyapeiris&show_icons=true)](https://github.com/shakyapeiris/github-readme-stats)
 
 <!---
 shakyapeiris/shakyapeiris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
