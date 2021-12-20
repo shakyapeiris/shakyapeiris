@@ -1,5 +1,5 @@
 # Hey There 👋👋, I'm Shakya
-I'm a developer/ student from Sri Lanka. Currently I'm studying in Thurstan College, Colombo 07. 
+I'm a developer/ student from Sri Lanka. Currently I'm studying in Ananda College, Colombo 10 and went to Thurstan College until O/L's.
 
 ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/shakyapeiris/count.svg" />
