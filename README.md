@@ -4,7 +4,7 @@ I'm a developer/ student from Sri Lanka. Currently I'm studying in Ananda Colleg
 ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/shakyapeiris/count.svg" />
   
-# Some Personal Achievements
+# Achievements
 - NOI 2022 finalist
 - APIO 2022 participant
 - OHacksIO finalist
