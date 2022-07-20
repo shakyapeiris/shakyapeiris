@@ -1,8 +1,13 @@
 # Hey There 👋👋, I'm Shakya
-I'm a developer/ student from Sri Lanka. Currently I'm studying in Ananda College, Colombo 10 and went to Thurstan College until O/L's.
+I'm a developer/ student from Sri Lanka. Currently I'm studying in Ananda College, Colombo 10.
 
 ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/shakyapeiris/count.svg" />
+  
+# Some Personal Achievements
+- NOI 2022 finalist
+- APIO 2022 participant
+- OHacksIO finalist
 
 ### Some Details About Me
 - 👀 I’m interested in full-stack developing
