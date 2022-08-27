@@ -7,6 +7,7 @@ I'm a developer/ student from Sri Lanka. Currently I'm studying in Ananda Colleg
 # Achievements
 - NOI 2022 finalist
 - APIO 2022 participant
+- Winner of the coding competition of 'Cutting Edge 2022' organized by IIT
 - OHacksIO finalist
 
 ### Some Details About Me
