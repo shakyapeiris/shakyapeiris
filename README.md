@@ -1,5 +1,5 @@
 # Hey There 👋👋, I'm Shakya
-I'm a developer/ student from Sri Lanka. Currently I'm studying in Ananda College, Colombo 10.
+I'm a developer/ student from Sri Lanka. Currently I'm studying at Ananda College, Colombo 10.
 
 ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/shakyapeiris/count.svg" />
@@ -9,6 +9,7 @@ I'm a developer/ student from Sri Lanka. Currently I'm studying in Ananda Colleg
 - APIO 2022 participant
 - Winner of the coding competition of 'Cutting Edge 2022' organized by IIT
 - OHacksIO finalist
+- Finalist in the Hack101 Category of LSEG's Hackerrank Gaming Challenge
 
 ### Some Details About Me
 - 👀 I’m interested in full-stack developing
