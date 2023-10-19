@@ -10,6 +10,7 @@ I'm a developer/ student from Sri Lanka. Currently I'm studying at Ananda Colleg
 - Winner of the coding competition of 'Cutting Edge 2022' organized by IIT
 - OHacksIO finalist
 - Finalist in the Hack101 Category of LSEG's Hackerrank Gaming Challenge
+- MoraForesigh 1.0 delegate
 
 ### Some Details About Me
 - 👀 I’m interested in full-stack developing
