@@ -1,5 +1,5 @@
 # Hey There 👋👋, I'm Shakya
-I'm a developer/ student from Sri Lanka. Currently I'm studying at Ananda College, Colombo 10.
+I'm an undergraduate from University of Colombo School of Computing.
 
 ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/shakyapeiris/count.svg" />
